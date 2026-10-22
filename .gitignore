@@ -1,0 +1,7 @@
+# Build artifacts
+*.o
+lab4_linked_list/str_list_test
+lab4_linked_list/list_equal_test
+
+# macOS
+.DS_Store
